@@ -18,37 +18,37 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
-<img align="left" alt="CSS3" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
-<img align="left" alt="Bootstrap" width="22px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="Bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 
-<img align="left" alt="Django" width="22px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img align="left" alt="Django" width="30px" src="https://img.icons8.com/color/48/000000/django.png"/>
 
-<img align="left" alt="Visual Studio Code" width="22px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
-<img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
-<img align="left" alt="Github" width="22px" src="https://img.icons8.com/color/48/000000/github.png"/>
+<img align="left" alt="Github" width="30px" src="https://img.icons8.com/color/48/000000/github.png"/>
 
-<img align="left" alt="Postgres" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" alt="Postgres" width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
-<img align="left" alt="Terminal" width="22px" src="https://img.icons8.com/color/26/000000/console.png"/>
+<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/color/26/000000/console.png"/>
 
 <br/>
 
 ### Connect with me:
 
-<img align="left" href="twitter.com/israelvic__" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+<img align="left" href="twitter.com/israelvic__" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 
-<img align="left" href="instagram.com/israelvic__" alt="instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+<img align="left" href="instagram.com/israelvic__" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
 
-<img align="left" href="linkedin.com/in/israel-abraham" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<img align="left" href="linkedin.com/in/israel-abraham" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
-<img align="left" href="facebook.com/israel.abraham.vic" alt="facebook" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+<img align="left" href="facebook.com/israel.abraham.vic" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
 
 ## <br/>
 

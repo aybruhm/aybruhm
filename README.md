@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
+<img align="left" alt="PyCharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
 <img align="left" alt="Github" width="30px" src="https://img.icons8.com/color/48/000000/github.png"/>
@@ -38,6 +40,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Postgres" width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
 <img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/color/26/000000/console.png"/>
+
+<img align="left" alt="REST API" width="30px" src="https://img.icons8.com/material-outlined/24/000000/api-settings.png"/>
 
 <br/>
 

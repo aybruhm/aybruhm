@@ -1,8 +1,8 @@
 ## Hi there, I'm Israel! - aka Victory. 👋
 
-# I'm a Python Django Web Developer!
-
 !['Backend'](./demo/backend.gif)
+
+# I'm a Python Django Web Developer!
 
 <!--
 **israelvictory/israelvictory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" href="twitter.com/israelvic__" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+<a href="twitter.com/israelvic__"  ><img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
-<img align="left" href="instagram.com/israelvic__" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+<a href="instagram.com/israelvic__"><img align="left" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 
-<img align="left" href="linkedin.com/in/israel-abraham" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<a href="linkedin.com/in/israel-abraham"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
-<img align="left" href="facebook.com/israel.abraham.vic" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+<a href="facebook.com/israel.abraham.vic"><img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 
 ## <br/>
 

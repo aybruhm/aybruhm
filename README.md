@@ -18,6 +18,28 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg"/>
+
+<img align="left" alt="CSS3" width="22px" src="https://simpleicons.org/icons/css3.svg"/>
+
+<img align="left" alt="Bootstrap" width="22px" src="https://simpleicons.org/icons/bootstrap.svg"/>
+
+<img align="left" alt="Twitter" width="22px" src="https://simpleicons.org/icons/python.svg"/>
+
+<img align="left" alt="Django" width="22px" src="https://simpleicons.org/icons/django.svg"/>
+
+<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
+
+<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg"/>
+
+<img align="left" alt="Github" width="22px" src="https://simpleicons.org/icons/github.svg"/>
+
+<img align="left" alt="Postgres" width="22px" src="https://simpleicons.org/icons/postgresql.svg"/>
+
+<img align="left" alt="Terminal" width="22px" src="./demo/code.svg"/>
+
+<br/>
+
 ### Connect with me:
 
 <img align="left" href="twitter.com/israelvic__" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>

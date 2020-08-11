@@ -1,7 +1,7 @@
 ## Hi there, I'm Israel! - aka Victory. 👋
 
 <!-- !['Backend'](./demo/backend.gif) -->
-<img align="left" alt="Backend" src="./demo/backend.gif"/>
+<img align="right" alt="Backend" src="./demo/backend.gif"/>
 
 # I'm a Python Django Web Developer!
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelvic__)
 
-[<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](israelvictory87@gmail.com)
+[<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:israelvictory87@gmail.com)
 
 ## <br/>
 

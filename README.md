@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="twitter.com/israelvic__"  ><img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+[<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://facebook.com/israel.abraham.vic)
 
-<a href="instagram.com/israelvic__"><img align="left" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+[<img align="left" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](http://instagram.com/israelvic__)
 
-<a href="linkedin.com/in/israel-abraham"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/israel-abraham)
 
-<a href="facebook.com/israel.abraham.vic"><img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+[<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelvic__)
 
 ## <br/>
 

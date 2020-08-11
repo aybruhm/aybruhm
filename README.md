@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelvic__)
 
-[<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](israelvictory87@gmail.com)
+[<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](israelvictory87@gmail.com)
 
 ## <br/>
 

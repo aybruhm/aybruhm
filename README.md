@@ -1,7 +1,7 @@
 ## Hi there, I'm Israel! - aka Victory. 👋
 
 <!-- !['Backend'](./demo/backend.gif) -->
-<img align="right" alt="Backend" src="./demo/backend.gif"/>
+<img alt="Backend" src="demo/backend.gif"/>
 
 # I'm a Python Django Web Developer!
 

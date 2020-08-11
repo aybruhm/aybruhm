@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" href="twitter.com/israelvic__" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>
+[<img align="left" href="twitter.com/israelvic__" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>][<a href="twitter.com/israelvic__">twitter</a>]
 
 <img align="left" href="instagram.com/israelvic__" alt="instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>
 

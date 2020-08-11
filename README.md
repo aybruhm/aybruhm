@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Library and Medical Store Management System
 - 🌱 I’m currently learning JavaScript / Vue
-- 👯 I’m looking to collaborate with other developers
+-  I’m looking to collaborate with other developers
 - 🎯 2020 Goals: Become a Full Stack Python Web Developer
 - ⚡ Fun fact: I draw and play keyboard
 

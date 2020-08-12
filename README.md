@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my personal brand/portfolio, a Library, and a Medical Store Management System
+- 🔭 I’m currently working on my personal brand / portfolio
 - 🌱 I’m currently learning JavaScript / Vue
 - 👨🏾‍💻 I’m looking to collaborate with other developers
 - 🎯 2020 Goals: Become a Full Stack Python Web Developer

@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a Library and Medical Store Management System
+- 🔭 I’m currently working on my personal brand/portfolio, a Library, and a Medical Store Management System
 - 🌱 I’m currently learning JavaScript / Vue
 - 👨🏾‍💻 I’m looking to collaborate with other developers
 - 🎯 2020 Goals: Become a Full Stack Python Web Developer
@@ -59,13 +59,5 @@ Here are some ideas to get you started:
 
 ## <br />
 
-### Visitor Counts:
-
-![Visitor Count](https://profile-counter.glitch.me/israelvictory/count.svg)
-
-<br/>
-
 <img align="left" alt="israel's victory Github Stats" src="https://github-readme-stats.vercel.app/api?username=israelvictory&show_icons=true&hide_border=true"/>
-
-
 

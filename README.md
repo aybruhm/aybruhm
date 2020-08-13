@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 
-<img align="left" alt="Django" width="30px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png"/>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 

@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:israelvictory87@gmail.com)
 
-## <br />
+<br/>
 
 <img align="left" alt="israel's victory Github Stats" src="https://github-readme-stats.vercel.app/api?username=israelvictory&show_icons=true&hide_border=true"/>
 

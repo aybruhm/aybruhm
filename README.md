@@ -11,8 +11,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my personal brand / portfolio
-- 🌱 I’m currently learning JavaScript / Vue
+- 🔭 I’m currently working on DigitalStade ([whispers] a constructive technology blog from Africa 😉)
+- 🌱 I’m currently learning JavaScript / Vue / Django Channels
 - 👨🏾‍💻 I’m looking to collaborate with other developers
 - 🎯 2020 Goals: Become a Full Stack Python Web Developer
 - ⚡ Fun fact: I draw and play keyboard

@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/israel-abraham)
 
-[<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelvic__)
+[<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 
 [<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:israelvictory87@gmail.com)
 

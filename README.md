@@ -1,4 +1,4 @@
-## Hi there, I'm Israel! - aka Victory. 👋
+## Hi there.. I'm Abraham, short for Abram! 👋
 
 <!-- !['Backend'](./demo/backend.gif) -->
 <img alt="Backend" src="https://miro.medium.com/max/842/1*Cp0fpBqgGxt3Sb_mWClqww.gif"/>
@@ -11,10 +11,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on DigitalStade ([whispers] a constructive technology blog from Africa 😉)
+- 🔭 I’m currently working on DigitalStade 
 - 🌱 I’m currently learning JavaScript / Vue / Django Channels
 - 👨🏾‍💻 I’m looking to collaborate with other developers
-- 🎯 2020 Goals: Become a Full Stack Python Web Developer
+- 🎯 ~2020 Goals: Become a Full Stack Python Web Developer~
 - ⚡ Fun fact: I draw and play keyboard
 
 ### Languages and Tools:
@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 <img align="left" alt="Bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+<img align="left" alt="JQuery" style="color: blue;" width="30px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 
 <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 

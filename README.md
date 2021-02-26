@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on DigitalStade 
-- 🌱 I’m currently learning JavaScript / Vue / Django Channels
-- 👨🏾‍💻 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning Django Channels
+- 👨🏾‍💻 ~I’m looking to collaborate with other developers~
 - 🎯 ~2020 Goals: Become a Full Stack Python Web Developer~
 - ⚡ Fun fact: I draw and play keyboard
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
-<img align="left" alt="JQuery" style="color: blue;" width="30px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+<img align="left" alt="JQuery" style="color: #fff;" width="30px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 
 <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://facebook.com/israel.abraham.vic)
 
-[<img align="left" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](http://instagram.com/israelvic__)
+[<img align="left" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](http://instagram.com/israelabraham__)
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/israel-abraham)
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
 
 [<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 

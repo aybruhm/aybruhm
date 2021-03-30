@@ -3,19 +3,13 @@
 
 # <b>Hello, folks! 👋</b>
 
-### My name is Israel Abraham and I am a Passionate Software && Web (Django) Developer. I enjoy coding (sometimes, designing), testing, and deployment of web sites && applications.
-
-<br>
+#### My name is Israel Abraham and I am a Passionate Software && Web (Django) Developer. I enjoy coding (sometimes, designing), testing, and deployment of web sites && applications.
 
 # <b>I am extremly proficient in the following.. </b>
 
 #### I guess you can say that writing computer codes has always been my dream since I was a little kid, there's not as interesting as seeing someone with blue-light blocking glasses facing his (or her) computer screen, writing green, red, blue, yellow (you know it) color of codes.
 
-<br/>
-
 ### <b> Key Note: </b> I started learning how to code simply because of Curiosity.
-
-<br/>
 
 ## <b> Languages and Tools: </b>
 
@@ -51,19 +45,15 @@
 
 # <b> Connect with me: </b>
 
-### You're working on the next big thing, an Open source project, or maybe some idea your Mum sold to you? And you're looking for a talented Python Backend developer that speaks in REST APIs and bandwidths ;-) to join your team or work as a Freelancer?
+#### You're working on the next big thing, an Open source project, or maybe some idea your Mum sold to you? And you're looking for a talented Python Backend developer that speaks in REST APIs and bandwidths ;-) to join your team or work as a Freelancer?
 
-### I am currently available to work with you and your team, send me a "Howdy!" on any of the following social networks, including gmail too.
-
-<br>
+#### I am currently available to work with you and your team, send me a "Howdy!" on any of the following social networks, including gmail too.
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
 
 [<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 
 [<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:israelvictory87@gmail.com)
-
-<br>
 
 <br>
 

@@ -7,9 +7,9 @@
 
 # <b>I am extremly proficient in the following.. </b>
 
-#### I guess you can say that writing computer codes has always been my dream since I was a little kid, there's not as interesting as seeing someone with blue-light blocking glasses facing his (or her) computer screen, writing green, red, blue, yellow (you know it) color of codes.
+#### I guess you can say that writing computer codes has always been my dream since I was a little kid, there's nothing more interesting as seeing someone with blue-light blocking glasses facing his (or her) computer screen, writing green, red, blue, yellow (you know it) color of codes.
 
-### <b> Key Note: </b> I started learning how to code simply because of Curiosity.
+#### <b> Key Note: </b> I started learning how to code simply because of Curiosity.
 
 ## <b> Languages and Tools: </b>
 

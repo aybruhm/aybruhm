@@ -3,7 +3,7 @@
 
 # Hello, folks! 👋
 
-## My name is Israel Abraham and I am a Passionate Software && Django Developer with 3 years plus of self-taught and client’s work experience. I enjoy coding, testing, and deployment of web applications; seeking anew challenges and opportunities to leverage.
+### My name is Israel Abraham and I am a Passionate Software && Django Developer with 3 years plus of self-taught and client’s work experience. I enjoy coding, testing, and deployment of web applications; seeking anew challenges and opportunities to leverage.
 
 <!--
 **israelvictory/israelvictory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,11 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on DigitalStade
-- 🌱 I’m currently learning Django Channels
-- 👨🏾‍💻 ~I’m looking to collaborate with other developers~
-- 🎯 ~2020 Goals: Become a Full Stack Python Web Developer~
-- ⚡ Fun fact: I draw and play keyboard
+<br>
 
 ### Languages and Tools:
 

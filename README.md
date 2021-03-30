@@ -1,9 +1,9 @@
-## Hi there.. I'm Abraham, short for Abram! 👋
-
 <!-- !['Backend'](./demo/backend.gif) -->
-<img alt="Backend" src="https://miro.medium.com/max/842/1*Cp0fpBqgGxt3Sb_mWClqww.gif"/>
+<img alt="Backend" src="demo/eco.gif"/>
 
-# I'm a Python Django Web Developer!
+# Hello, folks! 👋
+
+## My name is Israel Abraham and I am a Passionate Software && Django Developer with 3 years plus of self-taught and client’s work experience. I enjoy coding, testing, and deployment of web applications; seeking anew challenges and opportunities to leverage.
 
 <!--
 **israelvictory/israelvictory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on DigitalStade 
+- 🔭 I’m currently working on DigitalStade
 - 🌱 I’m currently learning Django Channels
 - 👨🏾‍💻 ~I’m looking to collaborate with other developers~
 - 🎯 ~2020 Goals: Become a Full Stack Python Web Developer~
@@ -47,13 +47,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="REST API" width="30px" src="https://img.icons8.com/material-outlined/24/000000/api-settings.png"/>
 
-<br/>
+<br /><br />
 
 ### Connect with me:
-
-[<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://facebook.com/israel.abraham.vic)
-
-[<img align="left" alt="instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](http://instagram.com/israelabraham__)
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
 

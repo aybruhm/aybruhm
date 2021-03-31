@@ -52,6 +52,7 @@
 [<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:israelvictory87@gmail.com)
 
 <br>
+<br>
 
 # <b>My GitHub Stats:</b>
 

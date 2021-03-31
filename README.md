@@ -5,13 +5,11 @@
 
 #### My name is Israel Abraham and I am a Passionate Software && Web (Django) Developer. I enjoy coding (sometimes, designing), testing, and deployment of web sites && applications.
 
-# <b>I am extremly proficient in the following.. </b>
+# <b>Languages and Tools: </b>
 
-#### I guess you can say that writing computer codes has always been my dream since I was a little kid, there's nothing more interesting as seeing someone with blue-light blocking glasses facing his (or her) computer screen, writing green, red, blue, yellow (you know it) color of codes.
+#### I am proficient at the following technologies listed below.
 
-#### <b> Key Note: </b> I started learning how to code simply because of Curiosity.
-
-## <b> Languages and Tools: </b>
+<br>
 
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 

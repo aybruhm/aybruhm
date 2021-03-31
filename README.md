@@ -9,8 +9,6 @@
 
 #### I am proficient at the following technologies listed below.
 
-<br>
-
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -43,9 +41,9 @@
 
 # <b> Connect with me: </b>
 
-#### You're working on the next big thing, an Open source project, or maybe some idea your Mum sold to you? And you're looking for a talented Python Backend developer that speaks in REST APIs and bandwidths ;-) to join your team or work as a Freelancer?
+#### You're working on the next big thing, an Open source project, or maybe some idea your Mum sold to you? And you're looking for a talented Python Backend developer that speaks in REST APIs and Unittests ;-) to join your team or work as a Freelancer?
 
-#### I am currently available to work with you and your team, send me a "Howdy!" on any of the following social networks, including gmail too.
+#### Yes, awesome, I am currently available to work with you and your team, send me a "Howdy!" on any of the following social networks, including gmail too.
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
 

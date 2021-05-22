@@ -3,7 +3,7 @@
 
 # <b>Hello, folks! 👋</b>
 
-#### My name is Israel Abraham and I am a Passionate Software && Web (Django) Developer. I enjoy coding (sometimes, designing), testing, and deployment of web sites && applications.
+#### My name is Israel Abraham and I am a Passionate Software && Web (Django) Developer. An ambivert who loves to code. I love technology. Love everything about designing, developing and deploying an application from the ground-up! I build scalable web applications/sites, APIs, literally anything-- that runs on the Web.
 
 # <b>Languages and Tools: </b>
 
@@ -16,8 +16,6 @@
 <img align="left" alt="Bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
-<img align="left" alt="JQuery" style="color: #fff;" width="30px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 
 <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 
@@ -41,13 +39,11 @@
 
 # <b> Connect with me: </b>
 
-#### You're working on the next big thing, an Open source project, or maybe some idea your Mum sold to you? And you're looking for a talented Python Backend developer that speaks in REST APIs and Unittests ;-) to join your team or work as a Freelancer?
-
-#### Yes, awesome, I am currently available to work with you and your team, send me a "Howdy!" on any of the following social networks, including gmail too.
+#### I am looking for backend opportunities in Python (Django) with a growing, ambitious team that's tackling a major problem. I aim is to obtain a challenging position that will utilize my technical skills and experience which will also improve me with the opportunity for growth and advancement. You can reach out to me on linkedin, twitter or through my email. 
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
 
-[<img align="left" alt="facebook" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
+[<img align="left" alt="twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 
 [<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:israelvictory87@gmail.com)
 

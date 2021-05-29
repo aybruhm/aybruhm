@@ -39,7 +39,7 @@
 
 # <b> Connect with me: </b>
 
-#### I am looking for backend opportunities in Python (Django) with a growing, ambitious team that's tackling a major problem. I aim is to obtain a challenging position that will utilize my technical skills and experience which will also improve me with the opportunity for growth and advancement. You can reach out to me on linkedin, twitter or through my email. 
+#### I am looking for backend opportunities in Python (Django) with a growing, ambitious team that's tackling a major problem. I aim to obtain a challenging position that will utilize my technical skills and experience which will also improve me with the opportunity for growth and advancement. You can reach out to me on linkedin, twitter or through my email. 
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
 

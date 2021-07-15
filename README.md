@@ -70,7 +70,7 @@ I am also an open-source enthusiast. I am currently contributing to [AutSPACEs](
 
 <br /><br />
 
-**Follow Me, aye?**
+**Fell free to reach out anytime, aye?**
 
 [<img align="left" alt="Israel's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 

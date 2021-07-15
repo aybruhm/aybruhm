@@ -1,7 +1,7 @@
 **Howdy? 👋**
 <br>
 
-Heyy, I'm [Israel Abraham](https://twitter.com/israelvictory), a passionate self-taught full stack python web developer and a freelance software engineer from Nigeria 🇳🇬. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I enjoy coding (sometimes, designing), testing, and deployment of web sites/applications and the code quality of the amazing things I build.
+Hey, I'm Israel Abraham, a passionate self-taught full-stack python web developer and a freelance software engineer from Nigeria 🇳🇬. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I enjoy coding (sometimes, designing), testing, and deployment of websites/applications and the code quality of the amazing things I build. things I build.
 
 I am also an open-source enthusiast. I am currently contributing to [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/)). I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -12,7 +12,7 @@ I am also an open-source enthusiast. I am currently contributing to [AutSPACEs](
 
 <img align="center" alt="GIF" src="demo/code.gif" width="500" height="320" />
 
-<br><br>
+<br>
 
 **Languages and Tools:**
 

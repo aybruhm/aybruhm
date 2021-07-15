@@ -1,9 +1,9 @@
-**Howdy? 👋**
+**Heyyooo? 👋**
 <br>
 
-Hey, I'm Israel Abraham, a passionate self-taught full-stack python web developer and a freelance software engineer from Nigeria 🇳🇬. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I enjoy coding (sometimes, designing), testing, and deployment of websites/applications and the code quality of the amazing things I build. things I build.
+My names are Israel Abraham Victory, I am a passionate self-taught full-stack python web developer and a freelance software engineer from Africa/Nigeria 🇳🇬. My passion for software lies with dreaming up ideas and making them come true by translating them into elegant interfaces. I enjoy coding, testing, and deployment of websites, web applications and the code quality of the amazing things I build.
 
-I am also an open-source enthusiast. I am currently contributing to [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/). I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/)**. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 💼 are you looking for a talented Python (Web) Developer that speaks in RESTful APIs, translates UI design to Frontend codes to join your team or work as a Freelancer? Do reach, [email](mailto:israelvictory87@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;

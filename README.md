@@ -35,7 +35,7 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 
 <img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png"/>
 
-<img align="left" alt="Docker" width="30px" src="demo/docker.png"/>
+<img align="left" alt="Docker" width="25px" src="demo/docker.png"/>
 
 <img align="left" alt="AWS" width="30px" src="demo/aws.png"/>
 

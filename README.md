@@ -5,7 +5,7 @@ My name is Israel Abraham Victory, I am a passionate self-taught python web deve
 
 I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/)**. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 👨🏽‍🌱 I’m currently Exploring VueJS, Docker and DevOps!
+- 👨🏽‍🌱 I’m currently Exploring ReactJS, Docker and DevOps!
 - 💼 Are you looking for a talented Python (Web) Developer that speaks in RESTful APIs, translates UI design to Frontend codes to join your team or work as a Freelancer? Do reach, [email](mailto:israelvictory87@gmail.com) :)
 - 💬 Ask me anything about Python Development, Automation, APIs, & Django; I will be happy to help!
 
@@ -25,7 +25,7 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
-<img align="left" alt="VueJS" width="30px" src="demo/vuejs.png"/>
+<img align="left" alt="ReactJS" width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 
 <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 

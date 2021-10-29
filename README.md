@@ -27,11 +27,11 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 
 <img align="left" alt="ReactJS" width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 
-<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
-
 
 <br><br>
 
+
+<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 
 <img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png"/>
 
@@ -40,10 +40,6 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 <img align="left" alt="AWS" width="30px" src="demo/aws.png"/>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-
-<img align="left" alt="PyCharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
 
 <br><br>
@@ -55,9 +51,14 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 
 <img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/color/26/000000/console.png"/>
 
-<img align="left" style="color: white;" alt="REST API" width="30px" src="https://img.icons8.com/material-outlined/24/000000/api-settings.png"/>
+
+<img align="left" alt="PyCharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
+
 
 <br /><br />
+
 
 **Fell free to reach out anytime, aye?**
 

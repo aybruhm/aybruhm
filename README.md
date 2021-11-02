@@ -1,7 +1,7 @@
-**Heyyooo? 👋**
+Nē, utsukushī ningen! 👋
 <br>
 
-My name is Israel Abraham Victory, I am a passionate self-taught python web developer and a freelance software engineer from Africa/Nigeria 🇳🇬. My passion for software lies with dreaming up ideas and making them come true by translating them into elegant interfaces. I enjoy coding, testing, and deployment of websites, web applications and the code quality of the amazing things I build.
+My name is Israel Abraham Victory, I am a passionate self-taught python web developer and a freelance software engineer from Africa/Nigeria. My passion for software lies with dreaming up ideas and making them come true by translating them into elegant interfaces. I enjoy coding, testing, and deployment of websites, web applications and the code quality of the amazing things I build.
 
 I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/)**. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 

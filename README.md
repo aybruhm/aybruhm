@@ -64,10 +64,10 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 
 [<img align="left" alt="Israel's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 
-[<img align="left" alt="Israel's LinkedIN" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/digitalstade)
+[<img align="left" alt="Israel's LinkedIN" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/abraham-israel)
 
 <br><br><br><br>
 
 **📈 My Github Stats**
 
-<img alt="israel's victory Github Stats" src="https://github-readme-stats.vercel.app/api?username=israelvictory&show_icons=true&theme=gotham"/>
+<img alt="israel's victory Github Stats" src="https://github-readme-stats.vercel.app/api?username=israelabraham&show_icons=true&theme=gotham"/>

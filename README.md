@@ -24,7 +24,7 @@ With that said,
 
 <br>
 
-<img align="right" alt="GIF" src="demo/code.gif" width="600" height="350" />
+<img align="right" alt="GIF" src="demo/code.gif" width="500" height="350" />
 
 <br>
 

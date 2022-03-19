@@ -1,17 +1,30 @@
-Nē, utsukushī ningen! 👋
+
+## Nē, utsukushī ningen! 👋
+
 <br>
 
-My name is Israel Abraham Victory, I am a passionate self-taught python web developer and a freelance software engineer from Africa/Nigeria. My passion for software lies with dreaming up ideas and making them come true by translating them into elegant interfaces. I enjoy coding, testing, and deployment of websites, web applications and the code quality of the amazing things I build.
+My names are Abraham Israel. I go by the unique code name Abram 🍀🐼, I am a passionate self-taught python developer and software engineer from Africa/Nigeria. My passion for software lies with dreaming up ideas and making them come true by translating them into elegant interfaces. I have over 4 years of experience developing and designing software for the web, from simple landing pages, custom web applications to building enhanced end-user functionality.
 
-I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/)**. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<br>
+
+I am a huge fan of Open Source! I have contributed to **[AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs/)**, and **[PyJWT](https://github.com/jpadilla/pyjwt/)**. Here are a few things you can learn from an Open Source community;
+
+- Working on an open source project with a group of people you’ve never met teaches you a lot about how to interact with people. You quickly discover that everyone has their own pressures, their own commitments, and differing timescales. Learning how to work collaboratively with a group of strangers is a great life skill.
+- Possibly the most powerful concept behind open source is that it allows you to harness a global network of creative, intelligent, and knowledgeable individuals. I know I have my limits, and I don’t know everything, but engaging with the open source community helps me improve my creations.
+- If the documentation for a project is unclear or incomplete, I don’t hesitate to make it better. One small update or fix might save a developer only a few minutes, but multiplied across all the users, your one small change can have a significant impact.
+
+<br>
+
+With that said, 
+
 
 - 👨🏽‍🌱 I’m currently Exploring ReactJS, Docker and DevOps!
-- 💼 Are you looking for a talented Python (Web) Developer that speaks in RESTful APIs, translates UI design to Frontend codes to join your team or work as a Freelancer? Do reach, [email](mailto:israelvictory87@gmail.com) :)
-- 💬 Ask me anything about Python Development, Automation, APIs, & Django; I will be happy to help!
+- 💼 If you are looking for a talented Backend (Python) software engineer that speaks in RESTful APIs, and has the ability to translate UI design(s) to elegant Frontend code to work on a project, or on a contract role. Feel free to reach out to me via this [email](mailto:israelvictory87@gmail.com) :)
+- 💬 Oh, finally. I run a [blog](https://digitalstade.com/) where I talk about tech from time to time. You can also ask me about anything on Python, Backend Development, System Design, Automation, APIs, & Django; I will be happy to help!
 
 <br>
 
-<img align="right" alt="GIF" src="demo/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="demo/code.gif" width="600" height="350" />
 
 <br>
 
@@ -60,7 +73,7 @@ I am also an open-source enthusiast! I am currently contributing to **[AutSPACEs
 <br /><br />
 
 
-**Fell free to reach out anytime, aye?**
+**Ay, yo! Feel free to reach out anytime.**
 
 [<img align="left" alt="Israel's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 

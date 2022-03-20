@@ -70,6 +70,16 @@ With that said,
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
 
+<br><br>
+
+
+<img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png"/>
+
+<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+
+<img align="left" alt="JsonWebTokens" width="30px" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
+
+
 <br /><br />
 
 

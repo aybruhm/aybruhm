@@ -1,5 +1,5 @@
 
-Nē, utsukushī ningen! 
+Nē, utsukushī ningen! 🍃
 ----------------------
 
 <br>

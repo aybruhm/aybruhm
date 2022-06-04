@@ -4,7 +4,7 @@ Nē, utsukushī ningen!
 
 <br>
 
-My names are Abraham Israel. I go by the unique code name **Abram 🐼**, I am a passionate self-taught python developer and software engineer from Africa/Nigeria. My passion for software lies with dreaming up ideas and making them come true by translating them into elegant interfaces. I have over 4 years of personal experience developing and designing software for the web, from simple landing pages, custom web/restful applications to building enhanced end-user functionality.
+My names are Abraham Israel. I go by the unique code name **Abram 🐼**, I am a passionate self-taught python developer and software engineer from Africa/Nigeria. My passion for software lies in dreaming up ideas and making them come true by translating them into elegant interfaces. I have over 4 years of personal experience developing and designing software for the web, from simple landing pages, and custom web/restful applications to building enhanced end-user functionality.
 
 <br>
 

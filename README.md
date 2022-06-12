@@ -1,5 +1,4 @@
-
-Nē, utsukushī ningen!
+Kon'nichiwa, ningen!
 ------
 
 <br>

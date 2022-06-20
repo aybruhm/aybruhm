@@ -1,9 +1,9 @@
 Kon'nichiwa, ningen!
 ------
 
-<br>
+I am **Abram**, a passionate self-taught python developer and software engineer from Africa/Nigeria. My passion for software lies in dreaming up ideas and making them come true by translating them into elegant interfaces and functional backend systems. I have over 4 years of personal experience developing and designing software for the web, from simple landing pages, and custom web/restful applications to building enhanced end-user functionality. I have a knack for not panicking in the face of complexity. I break things down into manageable chunks, and tackle them with the tools at my disposal.
 
-My names are Abraham Israel. I go by the unique code name **Abram 🐼**, I am a passionate self-taught python developer and software engineer from Africa/Nigeria. My passion for software lies in dreaming up ideas and making them come true by translating them into elegant interfaces. I have over 4 years of personal experience developing and designing software for the web, from simple landing pages, and custom web/restful applications to building enhanced end-user functionality.
+Logic. Patience. Communication, and Attention to detail are my underlying strengths.
 
 <br>
 
@@ -12,6 +12,16 @@ I am a huge fan of Open Source! I have contributed to **[AutSPACEs](https://gith
 - Working on an open source project with a group of people you’ve never met teaches you a lot about how to interact with people. You quickly discover that everyone has their own pressures, their own commitments, and differing timescales. Learning how to work collaboratively with a group of strangers is a great life skill.
 - Possibly the most powerful concept behind open source is that it allows you to harness a global network of creative, intelligent, and knowledgeable individuals. I know I have my limits, and I don’t know everything, but engaging with the open source community helps me improve my creations.
 - If the documentation for a project is unclear or incomplete, I don’t hesitate to make it better. One small update or fix might save a developer only a few minutes, but multiplied across all the users, your one small change can have a significant impact.
+
+<br>
+
+Things I am into:
+
+- Planning,
+- Building structures,
+- Thinking in systems,
+- Puzzles, 
+- Adapting to change and learning new technologies.
 
 <br>
 

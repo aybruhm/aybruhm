@@ -1,7 +1,7 @@
 Kon'nichiwa, ningen!
 ------
 
-I am **Abram**, a passionate self-taught python developer and software engineer from Africa/Nigeria. My passion for software lies in dreaming up ideas and making them come true by translating them into elegant interfaces and functional backend systems. I have over 4 years of personal experience developing and designing software for the web, from simple landing pages, and custom web/restful applications to building enhanced end-user functionality. I have a knack for not panicking in the face of complexity. I break things down into manageable chunks, and tackle them with the tools at my disposal.
+I am **Abram**, a passionate self-taught python developer and software engineer. I have over 4 years of personal and professional experience developing and designing software for the web, from simple landing pages, custom web and restful applications to building full fledged end-user systems. I have a knack for not panicking in the face of complexity. I break things down into manageable chunks, and tackle them with the tools at my disposal.
 
 Logic. Patience. Communication, and Attention to detail are my underlying strengths.
 
@@ -28,9 +28,8 @@ Things I am into:
 With that said, 
 
 
-- 👨🏽‍🌱 I’m currently Exploring ReactJS, Docker and DevOps!
-- 💼 If you are looking for a talented Backend (Python) software engineer that speaks in RESTful APIs, and has the ability to translate UI design(s) to elegant Frontend code to work on a project, or on a contract role. Feel free to reach out to me via this [email](mailto:israelvictory87@gmail.com) :)
-- 💬 Oh, finally. I run a [blog](https://digitalstade.com/) where I talk about tech from time to time. You can also ask me about anything on Python, Backend Development, System Design, Automation, APIs, & Django; I will be happy to help!
+- 👨🏽‍🌱 I’m currently Exploring System Design & Architecture, Distributed System, Docker and DevOps!
+- 💼 If you are looking for a Backend (Python) software engineer to work on a contract project, or on a full-time remote role. Feel free to reach out to me via this [email](mailto:israelvictory87@gmail.com) :)
 
 <br>
 

@@ -33,10 +33,6 @@ With that said,
 
 <br>
 
-<img align="center" alt="GIF" src="demo/code.gif" width="800" height="450" />
-
-<br>
-
 **Languages and Tools:**
 
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>

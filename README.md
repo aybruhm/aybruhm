@@ -79,13 +79,13 @@ With that said,
 <br /><br />
 
 
-**Ay, yo! Feel free to reach out anytime.**
+**Oi, feel free to reach out anytime!**
 
 [<img align="left" alt="Israel's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/israelabraham_)
 
 [<img align="left" alt="Israel's LinkedIN" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/abraham-israel)
 
-<br><br><br><br>
+<br /><br />
 
 **📈 My Github Stats**
 

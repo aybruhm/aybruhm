@@ -30,13 +30,20 @@
 
 <div align="center">
   <p align="center">
-    <samp>HTML5. CSS3. Sass. Bootstrap. JavaScript. Python. Django. Django Rest Framework. Docker. AWS.</samp>
+    <samp>HTML5. CSS3. Sass. Bootstrap. JavaScript. Python. Django. Django Rest Framework. Docker.</samp>
   </p>
 </div>
 
 <div align="center">
   <p align="center">
     <samp>Git. Github. Terminal/Bash. MySQL. PostgreSQL. Redis. RabbitMQ. Celery. Visutal Studio Code. PyCharm. </samp>
+  </p>
+</div>
+
+
+<div align="center">
+  <p align="center">
+    <samp>Cloud Services: AWS, DigitalOcean, Heroku, Netlify. </samp>
   </p>
 </div>
 

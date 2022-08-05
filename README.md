@@ -1,4 +1,4 @@
-<h1 align="center"><samp> Kon'nichiwa, ningen! </samp></h1>
+<h1 align="center"><samp> Kon'nichiwa! </samp></h1>
 
 <div align="center">
   <samp>I am <b>Abram</b>, a passionate self-taught python developer and software engineer. I have over 4 years of personal and professional experience developing and designing software for the web, from simple landing pages, custom web and restful applications to building full fledged end-user systems. I have a knack for not panicking in the face of complexity. I break things down into manageable chunks, and tackle them with the tools at my disposal.</samp>

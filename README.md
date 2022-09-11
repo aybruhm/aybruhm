@@ -36,7 +36,7 @@
 
 <div align="center">
   <p align="center">
-    <samp>HTML5. CSS3. Sass. Bootstrap. JavaScript. Python. Vue. Django. Django Rest Framework. Docker.</samp>
+    <samp>HTML5. CSS3. Sass. Bootstrap. JavaScript. Python. VueJS. Django. Django Rest Framework. Docker.</samp>
   </p>
 </div>
 

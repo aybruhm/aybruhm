@@ -54,5 +54,5 @@
 <br />
 <h2  align="center">Github Stats</h2>
 <div align="center">
-    <img alt="israel's victory Github Stats" src="https://github-readme-stats.vercel.app/api?username=israelabraham&show_icons=true&theme=gotham"/>
+    <img alt="Abram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aybruhm&show_icons=true&theme=gotham"/>
 </div>

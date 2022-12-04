@@ -44,7 +44,7 @@
     <a target="_blank"href="https://linkedin.com/in/abraham-israel">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://twitter.com/israelabraham_">
+    <a target="_blank" href="https://twitter.com/aybruhm">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:israelvictory87@gmail.com?subject=Hello%20Abram,%20From%20Github">

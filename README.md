@@ -38,7 +38,7 @@
     
 <div>
     <p>
-        <samp>Git. Github. Terminal/Bash. MySQL. PostgreSQL. Redis. RabbitMQ. Celery. Visutal Studio Code. PyCharm. </samp>
+        <samp>Git. Github. Terminal/Bash. MySQL. PostgreSQL. Redis. RabbitMQ. Celery. Visual Studio Code. PyCharm. </samp>
     </p>
 </div>
     

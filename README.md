@@ -9,7 +9,7 @@
 <h2>More about me!</h2>
 
 <div>
-    <samp>I am a huge fan of Open Source! I have contributed to a few (<b>AutSPACEs</b>, and <b>PyJWT</b>) and have created some. Here are a few things you can learn from an Open Source community:</samp>
+    <samp>I am a huge fan of Open Source! I have contributed to a few and have created some. Here are a few things you can learn from an Open Source community:</samp>
 </div>
 
 <br />
@@ -61,11 +61,3 @@
 <a target="_blank" href="mailto:israelvictory87@gmail.com?subject=Hello%20Abram,%20From%20Github">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-    
-<br />
-    
-<h2>Github Stats</h2>
-    
-<div>
-    <img alt="Abram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aybruhm&show_icons=true&theme=gotham"/>
-</div>

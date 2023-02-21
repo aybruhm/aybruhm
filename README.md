@@ -32,19 +32,7 @@
     
 <div>
     <p>
-        <samp>HTML5. CSS3. Sass. Bootstrap. JavaScript. Python. VueJS. Django. Django Rest Framework. FastAPI. Docker.</samp>
-    </p>
-</div>
-    
-<div>
-    <p>
-        <samp>Git. Github. Terminal/Bash. MySQL. PostgreSQL. SQLAlchemy/Alembic. Redis. RabbitMQ. Celery. Visual Studio Code. PyCharm. </samp>
-    </p>
-</div>
-    
-<div>
-    <p>
-        <samp>Cloud / Infrastructure: AWS, DigitalOcean, Heroku, Netlify.</samp>
+        <samp>JavaScript, VueJS, Python, Django (Rest Framework), FastAPI, Docker (Compose), ORMs (SQL Alchemy), Alembic (Database migrations), Celery, Celery Beat, Digital Ocean, AWS (EC2, Lambda, RDS, S3 Bucket, etc), Heroku, GitHub Actions (CI/CD), Unit Testing, SQL Profiling, MySQL, PostgreSQL, MongoDB, Redis, and WebSocket.</samp>
     </p>
 </div>
     

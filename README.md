@@ -1,7 +1,7 @@
 <h1>Kon'nichiwa!</h1>
 
 <div>
-    <samp>Hello, I am Abram - I have over 4 years of cumulative professional experience designing and developing web applications across multiple APIs, third-party integrations and databases. I am a talented backend engineer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Passionate about writing clean, elegant and maintainable code. These skill sets have allowed me to plan, design, and deliver reliable, scalable systems.</samp>
+    <samp>Hello, I am Abram. I have over four (4) years of cumulative professional experience designing and developing web applications across multiple APIs, third-party integrations and databases. I am a talented backend engineer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Passionate about writing clean, elegant and maintainable code. These skill sets have allowed me to plan, design, and deliver reliable, scalable systems.</samp>
 </div>
 
 <br />

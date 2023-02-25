@@ -26,7 +26,7 @@ I use the following technologies to work behind the scenes:
 - Cloud & Infrastructure: AWS, Digital Ocean, Railway, Heroku
 - Testing (unittest, pytest)
 - Databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB)
-- Asynchronous Task Queue (Celery, RabbitMQ, Apache Kafka)
+- Asynchronous Task/Messaging Queue (Celery, RabbitMQ, Apache Kafka)
 
 <br />
 

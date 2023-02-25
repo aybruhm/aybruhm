@@ -2,9 +2,9 @@
 ----------------------------------
 ![abram-cp](https://user-images.githubusercontent.com/55067204/221321088-b0495154-bbe6-49de-aa1f-193978bf63b2.jpeg)
 
-Hello, 
+Hello, I am Abram.
 
-I am Abram. I am a professional python backend engineer with over four (4) years of cumulative experience, and a technical writer with ~2 years of experience. I am adept at contributing to a highly collaborative work environment, passionate about writing clean, elegant, efficient and maintable code. I am also a huge fan of _OPEN SOURCE_. You will find me sometimes, building a library for the OSS community, or contributing to an existing one.
+I am a professional python backend engineer with over four (4) years of cumulative experience, and a technical writer with ~2 years of experience. I am adept at contributing to a highly collaborative work environment, passionate about writing clean, elegant, efficient and maintable code. I am also a huge fan of _OPEN SOURCE_. You will find me sometimes, building a library for the OSS community, or contributing to an existing one.
 
 <br />
 

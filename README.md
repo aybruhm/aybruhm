@@ -8,7 +8,7 @@ I am a professional python backend engineer with over four (4) years of cumulati
 
 <br />
 
-I am into;
+I am into:
 - continuous learning
 - planning
 - building structures

@@ -1,44 +1,36 @@
-<h1>Kon'nichiwa!</h1>
+私が誰で、何をしているのか
+----------------------------------
+![abram-cp](https://user-images.githubusercontent.com/55067204/221321088-b0495154-bbe6-49de-aa1f-193978bf63b2.jpeg)
 
-<div>
-    <samp>Hello, I am Abram. I have over four (4) years of cumulative professional experience designing and developing web applications across multiple APIs, third-party integrations and databases. I am a talented backend engineer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Passionate about writing clean, elegant and maintainable code. These skill sets have allowed me to plan, design, and deliver reliable, scalable systems.</samp>
-</div>
+Hello, 
 
-<br />
-
-<h2>More about me!</h2>
-
-<div>
-    <samp>I am a huge fan of Open Source! I have contributed to a few and have created some. Here are a few things you can learn from an Open Source community:</samp>
-</div>
+I am Abram. I am a professional python backend engineer with over four (4) years of cumulative experience, and a technical writer with ~2 years of experience. I am adept at contributing to a highly collaborative work environment, passionate about writing clean, elegant, efficient and maintable code. I am also a huge fan of _OPEN SOURCE_. You will find me sometimes, building a library for the OSS community, or contributing to an existing one.
 
 <br />
 
-<div>
-    <samp>- Working on an open source project with a group of people you’ve never met teaches you a lot about how to interact with people. You quickly discover that everyone has their own pressures, their own commitments, and differing timescales. Learning how to work collaboratively with a group of strangers is a great life skill.</samp> <br />
-    <samp>- Possibly the most powerful concept behind open source is that it allows you to harness a global network of creative, intelligent, and knowledgeable individuals. I know I have my limits, and I don’t know everything, but engaging with the open source community helps me improve my creations.</samp> <br />
-    <samp>- If the documentation for a project is unclear or incomplete, I don’t hesitate to make it better. One small update or fix might save a developer only a <samp>few minutes, but multiplied across all the users, your one small change can have a significant impact.</samp>
-</div>
-    
+I am into;
+- continuous learning
+- planning
+- building structures
+- thinking in systems
+- puzzles and algorithms
+- adapting to change
+
 <br />
-    
-<h2><samp>Things I Am Into </samp></h2>
-    
-<p><samp> Continuous Learning. Planning. Building Structures. Thinking In Systems. Puzzles. Adapting To Change & Learning New Technologies.</samp></p>
-    
+
+I use the following technologies to work behind the scenes:
+- Python (Django, Django Rest Framework, FastAPI)
+- Docker (Compose)
+- ORMs (Django ORM, SQLAlchemy)
+- Github Actions for CI/CD
+- Cloud & Infrastructure: AWS, Digital Ocean, Railway, Heroku
+- Testing (unittest, pytest)
+- Databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB)
+- Asynchronous Task Queue (Celery, RabbitMQ, Apache Kafka)
+
 <br />
-    
-<h2><samp>Languages and Tools </samp></h2>
-    
-<div>
-    <p>
-        <samp>JavaScript, VueJS, Python, Django (Rest Framework), FastAPI, Docker (Compose), ORMs (SQL Alchemy), Alembic (Database migrations), Celery, Celery Beat, Digital Ocean, AWS (EC2, Lambda, RDS, S3 Bucket, etc), Heroku, GitHub Actions (CI/CD), Unit Testing, SQL Profiling, MySQL, PostgreSQL, MongoDB, Redis, and WebSocket.</samp>
-    </p>
-</div>
-    
-<br />
-    
-<h2>Reach Me On</h2>
+
+Reach me on:
     
 <a target="_blank" href="https://linkedin.com/in/abraham-israel">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

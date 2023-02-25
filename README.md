@@ -30,6 +30,12 @@ I use the following technologies to work behind the scenes:
 
 <br />
 
+My Github stats:
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aybruhm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<br />
+
 Reach me on:
     
 <a target="_blank" href="https://linkedin.com/in/abraham-israel">

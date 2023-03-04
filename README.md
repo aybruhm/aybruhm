@@ -4,7 +4,7 @@
 
 Hello, I am Abram.
 
-I am a professional python backend engineer with over four (4) years of cumulative experience, and a technical writer with ~2 years of experience. I am adept at contributing to a highly collaborative work environment, passionate about writing clean, elegant, efficient and maintable code. I am also a huge fan of _OPEN SOURCE_. You will find me here; tinkering, or building a library for the OSS community, or contributing to an existing one.
+I am a professional python backend engineer with ~4 years of cumulative experience, and a technical writer with ~2 years of experience. I am adept at contributing to a highly collaborative work environment, passionate about writing clean, elegant, efficient and maintable code. I am also a huge fan of _OPEN SOURCE_. You will find me here; tinkering, or building a library for the OSS community, or contributing to an existing one.
 
 <br />
 
@@ -22,8 +22,8 @@ I use the following technologies to work behind the scenes:
 - Python (Django, Django Rest Framework, FastAPI)
 - Docker (Compose)
 - ORMs (Django ORM, SQLAlchemy)
-- Github Actions for CI/CD
-- Cloud & Infrastructure: AWS, Digital Ocean, Railway, Heroku
+- CI/CD (Github Actions, Jenkins)
+- Cloud & Infrastructure (AWS, Digital Ocean, Railway, Heroku)
 - Testing (unittest, pytest)
 - Databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB)
 - Asynchronous Task/Messaging Queue (Celery, RabbitMQ, Apache Kafka)

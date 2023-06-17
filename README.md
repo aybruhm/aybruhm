@@ -30,7 +30,7 @@ I use the following technologies to work behind the scenes:
 
 <br />
 
-I use the following tools effective communication and planning:
+I use the following tools for effective communication and planning:
 - Project Tracking: ClickUp, Jira, Trello
 - Communication: Microsoft Teams, Slack, Skype
 

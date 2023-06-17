@@ -24,9 +24,15 @@ I use the following technologies to work behind the scenes:
 - ORMs (Django ORM, SQLAlchemy)
 - CI/CD (Github Actions, Jenkins)
 - Cloud & Infrastructure (AWS, Digital Ocean, Railway, Heroku)
-- Testing (unittest, pytest)
+- Testing (unit test, pytest)
 - Databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB)
 - Asynchronous Task/Messaging Queue (Celery, RabbitMQ, Apache Kafka)
+
+<br />
+
+I use the following tools effective communication and planning:
+- Project Tracking: ClickUp, Jira, Trello
+- Communication: Microsoft Teams, Slack, Skype
 
 <br />
 

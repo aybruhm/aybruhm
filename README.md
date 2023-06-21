@@ -19,8 +19,9 @@ I am into:
 <br />
 
 I use the following technologies to work behind the scenes:
-- Python (Django, Django Rest Framework, FastAPI)
-- Docker (Compose)
+- Languages (Python, Go [learning])
+- Frameworks (Django, Django Rest Framework, FastAPI)
+- Containerization (Docker, Compose, Swarm)
 - ORMs (Django ORM, SQLAlchemy)
 - CI/CD (Github Actions, Jenkins)
 - Cloud & Infrastructure (AWS, Digital Ocean, Railway, Heroku)

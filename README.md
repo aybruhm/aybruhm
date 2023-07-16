@@ -19,15 +19,15 @@ I am into:
 <br />
 
 I use the following technologies to work behind the scenes:
-- Languages (Python, JavaScript)
+- Languages (Python, JavaScript/TypeScript)
 - Frameworks (Django, Django Rest Framework, FastAPI, NestJS)
-- Containerization (Docker, Compose, Swarm)
-- ORMs (Django ORM, SQLAlchemy, TypeORM)
+- Containerization & Orchestration (Docker, Compose, Swarm)
+- ORMs (Django ORM, SQLAlchemy, TypeORM<DataMapper>)
 - CI/CD (Github Actions, Jenkins)
 - Cloud & Infrastructure (AWS, Digital Ocean, Railway, Heroku)
 - Testing (unit test, pytest)
 - Databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB)
-- Asynchronous Task/Messaging Queue (Celery, RabbitMQ, Apache Kafka)
+- Asynchronous Task & Messaging Brokers (Celery, RedisPubSub, Redis, RabbitMQ, Apache Kafka)
 
 <br />
 

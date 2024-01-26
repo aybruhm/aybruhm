@@ -2,38 +2,30 @@
 -----------------------
 ![abram-cp](https://user-images.githubusercontent.com/55067204/221321088-b0495154-bbe6-49de-aa1f-193978bf63b2.jpeg)
 
-Hello, I am Abram.
-
-I am a backend software engineer with ~5 years of cumulative experience and a technical writer with ~2 years of experience. I am adept at contributing to a highly collaborative work environment, and passionate about writing clean, elegant, efficient and maintainable code. I am also a massive fan of _OPEN SOURCE_. You will find me here; tinkering, building a library for the OSS community, or contributing to an existing one.
+Hi, I'm Abram and I am a software engineer with over five years of industry experience spanning full-time, contract, and freelance roles. I thrive on constructing the intricate components of software that enhance customer interactions with the product. My expertise extends across backend (core), cloud/devops, testing/qa, and occasionally frontend.
 
 <br />
 
-I am into:
-- continuous learning
-- planning 
-- building structures
-- thinking in systems
-- puzzles and algorithms
-- adapting to change
+I'm impact-driven, curious, and really love to learn. When provided with the right context, I become hyper-focused on the problem at hand in order to find the solution in record time.
 
 <br />
 
-I use the following technologies to work behind the scenes:
-- Languages (Python, JavaScript/TypeScript)
-- Frameworks (Django, Django Rest Framework, FastAPI, NestJS)
-- Containerization & Orchestration (Docker, Compose, Swarm)
+I use the following technologies to work behind the scenes: <br />
+- Languages (Python, JavaScript & TypeScript) 
+- Frameworks (Django, Django Rest Framework, FastAPI, & NestJS)
+- Containerization & Virtualization (Docker, Docker Compose)
+- Orchestration (Docker Swarm)
+- ODMs (Odmantic, Beanie)
 - ORMs (Django ORM, SQLAlchemy, TypeORM<DataMapper>)
-- CI/CD (Github Actions, Jenkins)
+- CI & CD (Github Actions, Jenkins)
 - Cloud & Infrastructure (AWS, Digital Ocean, Railway, Heroku)
-- Testing (unit test, pytest)
+- Testing (unittest, pytest)
 - Databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB)
-- Asynchronous Task & Messaging Brokers (Celery, RedisPubSub, Redis, RabbitMQ, Apache Kafka)
+- Messaging Queue & Brokers (Celery, Redis<PubSub>, RabbitMQ, Apache Kafka)
 
 <br />
 
-I use the following tools for effective communication and planning:
-- Project Tracking: ClickUp, Jira, Trello
-- Communication: Microsoft Teams, Slack, Skype
+Outside of writing software, I spend my time reading Japanese comics, binge-watching anime, listening to audiobooks about finance and mental health, and reading books.
 
 <br />
 

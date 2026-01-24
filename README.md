@@ -2,7 +2,7 @@
 
 Hi, I'm Abram.
 
-Here are some of the stacks I've worked with since 2021:
+Here are some of the stacks I've worked with since 2019:
 
 - **Languages**: Python, JavaScript, TypeScript
 - **Frameworks & Runtimes**: FastAPI, Django (REST Framework, Ninja), React, Svelte, Node.js/Nest.js

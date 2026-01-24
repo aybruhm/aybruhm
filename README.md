@@ -14,4 +14,4 @@ Here are some of the stacks I've worked with since 2019:
 
 I'm currently building a multi-agent AI system that acts as my personal financial advisor and accountant.
 
-Outside of engineering, I consume stories (manga, dystopian cinema, anime) and study financial markets.
+Outside of engineering, I consume stories and study financial markets.

@@ -6,7 +6,8 @@ Here are some of the stacks I've worked with since 2021:
 
 - **Languages**: Python, JavaScript, TypeScript
 - **Frameworks & Runtimes**: FastAPI, Django (REST Framework, Ninja), React, Svelte, Node.js/Nest.js
-- **Cloud Platforms**: AWS (EC2, S3, Lambda, SQS, Bedrock), Google Cloud (Compute Engine, Cloud Storage)
+- **CI/CD Pipelines**: Jenkins, Github Actions
+- **Cloud Platforms**: AWS (EC2, S3, ECR, Lambda, SQS, Bedrock), Google Cloud (Compute Engine, Cloud Storage)
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Qdrant, ChromaDB
 - **Agentic AI & Orchestration**: Multi-agent systems (OpenAI Agents SDK, PydanticAI, LangGraph), LLM observability, tool calling, RAG pipelines (pgvector, etc)
 - **Messaging & Event-Driven**: Celery, AWS SQS, RabbitMQ, Kafka, Redis Pub/Sub

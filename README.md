@@ -43,3 +43,13 @@
 .........................................................&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.........................
 .........................................................&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+.......................
 ```
+
+I've been relearning what it means to be a software engineer in the age of AI; unlearning some things, learning others, and finding the process interesting enough to document.
+
+Here's what I've been working on:
+
+- **[waypoint](https://github.com/aybruhm/waypoint)**: A Python SDK for building fault-tolerant LLM agent workflows. Recovers from crashes by replaying execution from checkpoints, without re-invoking LLM calls or completed tool invocations.
+- **[folio](https://github.com/aybruhm/folio)**: A self-hostable investment tracking platform. Handles portfolio management, performance analysis, and financial goal tracking.
+- **[provenance](https://github.com/aybruhm/provenance)**: Agentic compliance and governance middleware. Enables autonomous agents to operate within policy-defined guardrails with cryptographic audit trails.
+- **[ai-video-generation-poc-with-temporal](https://github.com/aybruhm/ai-video-generation-poc-with-temporal)**: Orchestrating an AI video generation pipeline (generation → S3 → token deduction → DB) using Temporal workflows and FastAPI.
+- **[safe-agentic-payment-system](https://github.com/aybruhm/safe-agentic-payment-system)**: A safe agentic payment system that autonomously initiates payments within policy constraints, with production-ready patterns for financial AI systems.

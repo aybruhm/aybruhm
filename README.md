@@ -44,8 +44,6 @@
 .........................................................&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+.......................
 ```
 
-I've been relearning what it means to be a software engineer in the age of AI; unlearning some things, learning others, and finding the process interesting enough to document.
-
 Here's what I've been working on:
 
 - **[waypoint](https://github.com/aybruhm/waypoint)**: A Python SDK for building fault-tolerant LLM agent workflows. Recovers from crashes by replaying execution from checkpoints, without re-invoking LLM calls or completed tool invocations.

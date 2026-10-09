@@ -44,10 +44,49 @@
 .........................................................&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+.......................
 ```
 
-Here's what I've been working on:
 
+I build production AI systems: retrieval, agents, evaluations, and the backend and cloud infrastructure that keeps them running. I came into AI engineering through backend and cloud infrastructure, and that background shapes how I work. If an agent can't recover from a crash, explain what it did, or be tested before it ships, it isn't ready for production.
+
+---
+
+## Current Work
+
+- Building retrieval and agent systems for production AI products
+- Building Assay, a durable financial planning agent on LangGraph
+- Open-source tooling for running AI agents safely in production
+
+---
+
+## Projects
+
+- **[assay](https://github.com/aybruhm/assay)**: A durable financial planning agent built on LangGraph for users who need trustworthy answers about their financial situation without trusting the AI to do the arithmetic. The AI only reads the user's details and explains the results; every calculation runs in tested code that applies the financial rules of the user's country.
 - **[waypoint](https://github.com/aybruhm/waypoint)**: A Python SDK for building fault-tolerant LLM agent workflows. Recovers from crashes by replaying execution from checkpoints, without re-invoking LLM calls or completed tool invocations.
-- **[folio](https://github.com/aybruhm/folio)**: A self-hostable investment tracking platform. Handles portfolio management, performance analysis, and financial goal tracking.
-- **[provenance](https://github.com/aybruhm/provenance)**: Agentic compliance and governance middleware. Enables autonomous agents to operate within policy-defined guardrails with cryptographic audit trails.
-- **[ai-video-generation-poc-with-temporal](https://github.com/aybruhm/ai-video-generation-poc-with-temporal)**: Orchestrating an AI video generation pipeline (generation → S3 → token deduction → DB) using Temporal workflows and FastAPI.
-- **[safe-agentic-payment-system](https://github.com/aybruhm/safe-agentic-payment-system)**: A safe agentic payment system that autonomously initiates payments within policy constraints, with production-ready patterns for financial AI systems.
+- **[provenance](https://github.com/aybruhm/provenance)**: Agentic compliance and governance middleware. Lets autonomous agents operate within policy-defined guardrails, with human approval for risky actions and cryptographic audit trails.
+- **[safe-agentic-payment-system](https://github.com/aybruhm/safe-agentic-payment-system)**: An agent that initiates payments on its own, but only within policy limits it cannot override.
+- **[ai-video-generation-poc-with-temporal](https://github.com/aybruhm/ai-video-generation-poc-with-temporal)**: An AI video generation pipeline (generation, S3 upload, token deduction, database write) orchestrated with Temporal workflows and FastAPI.
+- **[folio](https://github.com/aybruhm/folio)**: A self-hostable investment tracker for portfolio management, performance analysis, and financial goal tracking.
+
+---
+
+## Technical Focus
+
+### AI Engineering
+- Agents and agentic workflows (LangGraph, LangChain, PydanticAI, smolagents)
+- RAG and LLM evaluation (RAGAS, custom evaluators)
+- Vector and hybrid search (Qdrant, Elasticsearch)
+- Durable execution and workflow orchestration (Temporal, Celery, event sourcing)
+- Guardrails, human-in-the-loop approval, audit logging
+- Multi-provider model integration (LiteLLM, 12+ generative AI providers in production)
+
+### Backend
+- Languages: Python, TypeScript
+- Frameworks: FastAPI, Django, Node.js
+- Data: PostgreSQL, Redis, MongoDB
+- Queues: Celery, RabbitMQ, Kafka, AWS SQS
+
+### Infrastructure
+- Cloud: AWS
+- Tooling: Pulumi, Docker, NGINX, GitHub Actions
+
+### Frontend
+- React, Svelte
